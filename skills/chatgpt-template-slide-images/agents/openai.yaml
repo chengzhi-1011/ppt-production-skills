@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT 模板化逐页出图"
+  short_description: "通过ChatGPT网页端按模板逐页生成、下载并审查PPT页面设计图"
+  default_prompt: "Use $chatgpt-template-slide-images to generate slide images from my approved outline and PPT template in ChatGPT web."

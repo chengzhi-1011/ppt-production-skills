@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 材料分析与大纲"
+  short_description: "分析多格式材料、追踪证据并生成可审批的逐页PPT汇报大纲"
+  default_prompt: "Use $ppt-material-to-outline to analyze my materials and draft an evidence-bounded slide outline."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 全流程生产线"
+  short_description: "从材料分析、大纲审批、网页出图到可编辑PPT验收的完整生产流水线"
+  default_prompt: "Use $ppt-production-pipeline to turn my materials and template into a reviewed editable PowerPoint deck."
