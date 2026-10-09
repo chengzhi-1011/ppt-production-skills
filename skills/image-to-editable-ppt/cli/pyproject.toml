@@ -6,7 +6,7 @@ requires-python = ">=3.10"
 license = "Apache-2.0"
 license-files = ["LICENSE", "NOTICE", "THIRD_PARTY_NOTICES.md"]
 dependencies = [
-  "pypdfium2>=4.30.0,<5",
+  "pypdfium2>=4.30.0,<6",
   "Pillow>=10.0.0,<13",
   "openai>=2.0.0,<3",
   "PyYAML>=6.0.0,<7",
